@@ -10,7 +10,8 @@
 
 <h3 align="left">About:</h3>
 <p align="left">
-My name is Abdulaziz, and I am an junior software engineer who loves working with low level languages such as C and C++. I have a strong background in computer science and am eager to apply my knowledge and skills to real-world projects. I am a quick learner and am always looking for new challenges to tackle. I am excited about the opportunity to work with experienced engineers and to gain a deeper understanding of how low level languages can be used to create efficient and high-performing software. I am confident that my skills and passion will make me a valuable asset to any team.
+My name is Abdulaziz, I'm junior software engineer who has a strong background in computer science. I love working with low level languages such as C and C++. I like to tackle to new challenges and I would love to work with experienced engineers and gain a deeper knowledge. I'm a quick learner and I don't give up easily. 
+I am confident that my skills and passion will make me a valuable asset to any team.
 </p>
 
 <h3 align="left">Languages:</h3>
