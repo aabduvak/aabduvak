@@ -63,5 +63,6 @@ My name is Abdulaziz, and I am an junior software engineer who loves working wit
 <h3 align="left">Github Stats:</h3>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aabduvak&show_icons=true&theme=dark&locale=en" alt="aabduvak" />
+  <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabduvak&show_icons=true&locale=en&layout=compact&theme=dark" alt="aabduvak" />
 </p>
