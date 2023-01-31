@@ -62,7 +62,24 @@ My name is Abdulaziz, and I am an junior software engineer who loves working wit
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aabduvak&show_icons=true&theme=dark&locale=en" alt="aabduvak" />
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabduvak&show_icons=true&locale=en&layout=compact&theme=dark" alt="aabduvak" />
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=aabduvak&show_icons=true&theme=dark&locale=en" alt="aabduvak" />
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabduvak&show_icons=true&locale=en&layout=compact&theme=dark" alt="aabduvak" />
+  </a>
+</p>
+
+<h3 align="left">Social Accounts:</h3>
+<p align="left">
+  <a href="https://www.instagram.com/aabdulaziz.exe/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="instagram" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/abdulaziz-abduvakhobov-011828203/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://t.me/aabduvak" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="linkedin" width="40" height="40"/>
+  </a>
 </p>
