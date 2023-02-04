@@ -84,3 +84,6 @@ I am confident that my skills and passion will make me a valuable asset to any t
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aabduvak)
+
