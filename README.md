@@ -10,7 +10,7 @@
 
 <h3 align="left">About:</h3>
 <p align="left">
-My name is Abdulaziz, I'm middle software engineer who has a strong background in computer science. I'm eager to apply my knowledge and skills to real-world projects. I'm excited to work with low level languages such as C and C++. I like to tackle to new challenges and I would love to work with experienced engineers and gain deeper knowledge. I'm a quick learner and I don't give up easily. 
+My name is Abdulaziz, I'm middle software engineer who has a strong background in computer science. I'm eager to apply my knowledge and skills to real-world projects. I'm excited to work with languages such as C/C++, Python, Javascript, Java and C#. I like to tackle to new challenges and I would love to work with experienced engineers and gain deeper knowledge. I'm a quick learner and I don't give up easily. 
 I am confident that my skills and passion will make me a valuable asset to any team.
 </p>
 
