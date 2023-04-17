@@ -85,6 +85,4 @@ I am confident that my skills and passion will make me a valuable asset to any t
   </a>
 </p>
 
-<h3 align="left">Donation:</h3>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aabduvak)
-
