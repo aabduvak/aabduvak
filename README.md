@@ -85,10 +85,4 @@ I am confident that my skills and passion will make me a valuable asset to any t
   </a>
 </p>
 
-###
-
-<img src="https://raw.githubusercontent.com/aabduvak/aabduvak/output/snake.svg" alt="Snake animation" />
-
-###
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aabduvak)
