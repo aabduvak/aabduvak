@@ -61,16 +61,6 @@ I am confident that my skills and passion will make me a valuable asset to any t
   </a>
 </p>
 
-<h3 align="left">Github Stats:</h3>
-<p align="left">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=aabduvak&show_icons=true&theme=dark&locale=en" alt="aabduvak" />
-  </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabduvak&show_icons=true&locale=en&layout=compact&theme=dark" alt="aabduvak" />
-  </a>
-</p>
-
 <h3 align="left">Social Accounts:</h3>
 <p align="left">
   <a href="https://www.instagram.com/aabdulaziz.exe/" target="_blank" rel="noreferrer">
